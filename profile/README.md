@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://vivify.video">
-    <img src="../assets/logo.png" alt="Vivify logo" width="96" />
+    <img src="../assets/logo.png" alt="Vivify logo" width="112" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://vivify.video">
@@ -10,22 +11,23 @@
   </a>
 </p>
 
-<h1 align="center">Vivify Video</h1>
+# Vivify
 
-[Vivify.video](https://vivify.video) is an AI creative workspace for turning prompts and references into images, controlled edits, and short videos.
+Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
 
-This GitHub organization is the public home for Vivify product communication:
-
-- Official public repository: [vivifyvideo/vivify](https://github.com/vivifyvideo/vivify)
-- Product roadmap notes
-- Bug reports and feature requests
-- Public documentation and support guidance
-- Community discussion for creator workflows
-
-The core Vivify product is not open-source. Public repositories under this organization are used for documentation, feedback, examples, and product communication unless a repository states otherwise.
-
-## Links
+## Official Resources
 
 - Website: [vivify.video](https://vivify.video)
-- Public repository: [github.com/vivifyvideo/vivify](https://github.com/vivifyvideo/vivify)
-- Support: [support@vivify.video](mailto:support@vivify.video)
+- Public repository: [vivifyvideo/vivify](https://github.com/vivifyvideo/vivify)
+- Feedback and issues: [github.com/vivifyvideo/vivify/issues](https://github.com/vivifyvideo/vivify/issues)
+- Roadmap: [ROADMAP.md](https://github.com/vivifyvideo/vivify/blob/main/ROADMAP.md)
+- Support: support@vivify.video
+
+## Product Areas
+
+- Create image-to-video, text-to-video, and supported video-edit generations from one workspace.
+- Generate or refine source images before continuing into video creation.
+- Use model-aware controls for Gemini Omni Flash, Seedance 2, GPT Image 2, and related creative models.
+- Review cost drivers such as duration, resolution, reference limits, and credit usage near the action.
+
+This organization profile points to the official public GitHub resources for Vivify. Production source code and private operational configuration are not published here.
