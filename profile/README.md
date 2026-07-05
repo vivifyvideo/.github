@@ -17,9 +17,9 @@ Vivify is an AI creation workspace for turning images, videos, and text prompts 
 
 ## Official Resources
 
-- Website: [vivify.video](https://vivify.video)
+- Website: [Vivify AI video generator](https://vivify.video)
 - Public repository: [vivifyvideo/vivify](https://github.com/vivifyvideo/vivify)
-- Feedback and issues: [github.com/vivifyvideo/vivify/issues](https://github.com/vivifyvideo/vivify/issues)
+- Feedback and issues: [Vivify public feedback on GitHub](https://github.com/vivifyvideo/vivify/issues)
 - Roadmap: [ROADMAP.md](https://github.com/vivifyvideo/vivify/blob/main/ROADMAP.md)
 - Support: support@vivify.video
 
