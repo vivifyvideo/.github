@@ -32,4 +32,4 @@ Create source images, refine visual ideas, animate them into video, or transform
 - Apply realtime face swap to live video workflows.
 - Choose model-aware controls and review duration, resolution, reference, and credit requirements before generating.
 
-This is Vivify's official GitHub organization. The public repository hosts product information, documentation, the roadmap, and community feedback. Vivify's production source code and private operational configuration are not published here.
+Public GitHub materials include product information, documentation, the roadmap, and community feedback. Vivify's production source code and private operational configuration are not published here.
