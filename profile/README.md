@@ -13,7 +13,9 @@
 
 # Vivify
 
-Vivify is an AI creation workspace for turning images, videos, and text prompts into video, with image generation and reference editing built into the same production flow.
+Vivify brings AI image creation and editing, text-to-video, image-to-video, and realtime face swap into one creative workspace.
+
+Create source images, refine visual ideas, animate them into video, or transform live video from a single product at [vivify.video](https://vivify.video).
 
 ## Official Resources
 
@@ -25,9 +27,9 @@ Vivify is an AI creation workspace for turning images, videos, and text prompts 
 
 ## Product Areas
 
-- Create image-to-video, text-to-video, and supported video-edit generations from one workspace.
-- Generate or refine source images before continuing into video creation.
-- Use model-aware controls for Gemini Omni Flash, Seedance 2, GPT Image 2, and related creative models.
-- Review cost drivers such as duration, resolution, reference limits, and credit usage near the action.
+- Generate images from prompts and edit images with visual references.
+- Create videos from text prompts or still images.
+- Apply realtime face swap to live video workflows.
+- Choose model-aware controls and review duration, resolution, reference, and credit requirements before generating.
 
-This organization profile points to the official public GitHub resources for Vivify. Production source code and private operational configuration are not published here.
+This is Vivify's official GitHub organization. The public repository hosts product information, documentation, the roadmap, and community feedback. Vivify's production source code and private operational configuration are not published here.
